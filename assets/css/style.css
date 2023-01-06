@@ -44,6 +44,6 @@ figure {
   text-align: center;
 }
 
-#releases ul {
+.list-disc-style {
   list-style: disc;
 }
